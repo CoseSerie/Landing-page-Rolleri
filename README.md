@@ -20,7 +20,7 @@
         </section>
     </header>
 
-    <section id="about">
+<section id="about">
         <h2>Cos'è A Teatro con Rolleri</h2>
         <p>
             A Teatro con Rolleri è più di un semplice allenamento: è un’esperienza unica che unisce sport, mental coaching e teatro 
@@ -29,7 +29,7 @@
         </p>
     </section>
 
-    <section id="the-box">
+ <section id="the-box">
         <h2>La Box Esclusiva per i Portieri del Futuro</h2>
         <p>La Box contiene strumenti unici per migliorare mentalità e tecnica:</p>
         <ul>
@@ -41,7 +41,7 @@
         <a href="#cta" class="cta-button">Prenota la tua Box ora</a>
     </section>
 
-    <section id="video">
+<section id="video">
         <h2>Guarda il Video Introduttivo</h2>
         <p>Scopri come il nostro programma può aiutarti a diventare un portiere più forte mentalmente e tecnicamente.</p>
         <video width="100%" controls>
@@ -50,7 +50,7 @@
         </video>
     </section>
 
-    <section id="testimonials">
+<section id="testimonials">
         <h2>Cosa dicono i nostri clienti</h2>
         <blockquote>
             "Mio figlio ha scoperto una nuova sicurezza in campo grazie a questo metodo. È un’esperienza che consiglierei a tutti i giovani portieri!" – Andrea M., Genitore
@@ -60,13 +60,13 @@
         </blockquote>
     </section>
 
-    <section id="cta">
+<section id="cta">
         <h2>Sei pronto a diventare un portiere monumentale?</h2>
         <p>Ordina la tua Box oggi e accedi a un percorso esclusivo con i migliori portieri professionisti!</p>
         <a href="order.html" class="cta-button">Prenota Ora e Ricevi un Contenuto Esclusivo Gratuito!</a>
     </section>
 
-    <section id="faq">
+<section id="faq">
         <h2>Domande Frequenti</h2>
         <div>
             <strong>Chi può acquistare la Box?</strong>
@@ -86,7 +86,7 @@
         </div>
     </section>
 
-    <section id="social-media">
+<section id="social-media">
         <h2>Seguici sui nostri Social</h2>
         <p>Rimani aggiornato sui nostri eventi, novità e contenuti esclusivi per giovani portieri!</p>
         <a href="https://www.instagram.com/ateatroconrolleri" target="_blank">Instagram</a>
@@ -94,12 +94,10 @@
         <a href="https://www.twitter.com/ateatroconrolleri" target="_blank">Twitter</a>
     </section>
 
-    <footer>
+ <footer>
         <p>&copy; 2025 A Teatro con Rolleri - Tutti i diritti riservati</p>
         <p>Contatti: Via Camillo Brozzoni, 9, 25125 Brescia BS - Tel: 350 520 5325</p>
     </footer>
-
-    <!-- Include scripts for marketing automation, tracking, etc. -->
     <script src="scripts.js"></script>
 </body>
 </html>
