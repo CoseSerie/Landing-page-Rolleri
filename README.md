@@ -7,7 +7,7 @@
     <meta name="description" content="A Teatro con Rolleri - Allenamento mentale per giovani portieri. Scopri la Box esclusiva per migliorare la tua mentalità e sicurezza in campo.">
     <meta name="keywords" content="allenamento mentale portieri, come diventare un portiere più sicuro, esperienza teatrale giovani calciatori, Box per allenamento mentale portiere">
     <meta name="author" content="A Teatro con Rolleri">
-    <title> A Teatro con Rolleri - Diventa un Portiere Monumentale </title>
+    <title>A Teatro con Rolleri - Diventa un Portiere Monumentale</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
